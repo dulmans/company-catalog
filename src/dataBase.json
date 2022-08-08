@@ -1,0 +1,10 @@
+[
+    {"id": 1, "companyName": "ООО \"Вектор\"", "directorName": "Иванов И.И.", "phoneNumber": "+79991112233"},
+    {"id": 2, "companyName": "ИП Сидоров С.С.", "directorName": "Сидоров С.С.", "phoneNumber": "+79992224455"},
+    {"id": 3, "companyName": "АО \"Тинькофф Банк\"", "directorName": "Тиньков О.Ю.", "phoneNumber": "+79994445577"},
+    {"id": 4, "companyName": "ПАО \"Сбербанк\"", "directorName": "Греф Г.О.", "phoneNumber": "+79995559944"},
+    {"id": 5, "companyName": "ОАО \"Сельхоз\"", "directorName": "Грудинин Г.О.", "phoneNumber": "+79995559944"},
+    {"id": 6, "companyName": "ЗАО \"Совкомбанк\"", "directorName": "Ктото Г.О.", "phoneNumber": "+79995559944"},
+    {"id": 7, "companyName": "ООО \"Америка\"", "directorName": "Байден Д.О.", "phoneNumber": "+79995559944"},
+    {"id": 8, "companyName": "ИП \"С.Корея\"", "directorName": "Ким Ч.Ы.", "phoneNumber": "+79995559944"}
+]
